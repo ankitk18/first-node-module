@@ -1,6 +1,6 @@
 {
   "name": "node-print-hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module prints \"Hello World\".",
   "main": "main.js",
   "scripts": {
