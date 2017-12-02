@@ -1,0 +1,19 @@
+{
+  "name": "node-print-hello",
+  "version": "1.0.0",
+  "description": "This module prints \"Hello World\".",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitk18/first-node-module.git"
+  },
+  "author": "Ankit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankitk18/first-node-module/issues"
+  },
+  "homepage": "https://github.com/ankitk18/first-node-module#readme"
+}
